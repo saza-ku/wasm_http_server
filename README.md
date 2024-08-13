@@ -27,4 +27,4 @@ echo: name=WasmEdge
 
 Apache-2.0license
 
-This repository is from [second-state/wasmedge_wasi_socket](https://github.com/second-state/wasmedge_wasi_socket/tree/main).
+This repository is from [second-state/wasmedge_wasi_socket](https://github.com/second-state/wasmedge_wasi_socket/tree/main), which is under Apache-2.0license.
